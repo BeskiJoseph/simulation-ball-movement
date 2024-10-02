@@ -1,6 +1,6 @@
 # Simulation_Ball_Movement
 
-Link: https://gowthammca23.github.io/Simulation_Ball_Movement/
+Link: https://beskijoseph.github.io/simulation-ball-movement/
 
 SIMULATION BALL MOVEMENT
 
